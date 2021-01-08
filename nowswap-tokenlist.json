@@ -113,16 +113,7 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
-    },
-  
-    {
-      "chainId": 4,
-      "address": "0xddea378A6dDC8AfeC82C36E9b0078826bf9e68B6",
-      "name": "0x Protocol Token",
-      "symbol": "ZRX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
-    },
+    }
    
    
   ],
